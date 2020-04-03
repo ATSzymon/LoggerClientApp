@@ -1,0 +1,8 @@
+C:\Users\SzymonJ\source\tests\TcpClientApp\ATDiagnosticsLogger\bin\Debug\netcoreapp3.1\ATDiagnosticsLogger.deps.json
+C:\Users\SzymonJ\source\tests\TcpClientApp\ATDiagnosticsLogger\bin\Debug\netcoreapp3.1\ATDiagnosticsLogger.dll
+C:\Users\SzymonJ\source\tests\TcpClientApp\ATDiagnosticsLogger\bin\Debug\netcoreapp3.1\ATDiagnosticsLogger.pdb
+C:\Users\SzymonJ\source\tests\TcpClientApp\ATDiagnosticsLogger\obj\Debug\netcoreapp3.1\ATDiagnosticsLogger.csprojAssemblyReference.cache
+C:\Users\SzymonJ\source\tests\TcpClientApp\ATDiagnosticsLogger\obj\Debug\netcoreapp3.1\ATDiagnosticsLogger.AssemblyInfoInputs.cache
+C:\Users\SzymonJ\source\tests\TcpClientApp\ATDiagnosticsLogger\obj\Debug\netcoreapp3.1\ATDiagnosticsLogger.AssemblyInfo.cs
+C:\Users\SzymonJ\source\tests\TcpClientApp\ATDiagnosticsLogger\obj\Debug\netcoreapp3.1\ATDiagnosticsLogger.dll
+C:\Users\SzymonJ\source\tests\TcpClientApp\ATDiagnosticsLogger\obj\Debug\netcoreapp3.1\ATDiagnosticsLogger.pdb
